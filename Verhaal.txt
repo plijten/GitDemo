@@ -2,3 +2,4 @@ Dit is het begin van ons project.
 
 Student A voegt een nieuwe zin toe.
 Student B voegt ook een zin toe.
+De kleur van de website is rood.
